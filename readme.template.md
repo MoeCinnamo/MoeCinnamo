@@ -65,7 +65,7 @@
 **你能找到我吗**
 
 <p><a href="https://github.com/Cinnamoroll-Rabbit" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://blog.mojy.xyz" target="_blank">Blog</a>
+<a href="https://blog.mojy.xyz" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-blog.mojy.xyz-yellowgreen" /></a>
 
 ------------
 
