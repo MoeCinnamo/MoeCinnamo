@@ -1,4 +1,4 @@
-# Cinnamoroll![](https://visitor-badge.laobi.icu/badge?page_id=Cinnamoroll-Rabbit.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
+# Cinnamoroll![](https://visitor-badge.laobi.icu/badge?page_id=Cinnamoroll-Rabbit.readme) 
 
 喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是。
 
@@ -70,4 +70,4 @@
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/22, 4:38 PM<br>下一次刷新：4/28/22, 7:38 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/22, 4:41 PM<br>下一次刷新：4/28/22, 7:41 PM</p>
