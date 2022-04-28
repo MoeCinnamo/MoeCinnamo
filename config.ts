@@ -19,8 +19,8 @@ export const github = {
 }
 
 export const mxSpace = {
-  url: 'https://innei.ren',
-  api: 'https://api.innei.ren/v2',
+  url: 'https://blog.mojy.xyz',
+  api: 'https://blogapi.mojy.xyz/v2',
 }
 
 export const timeZone = 'Asia/Shanghai'
