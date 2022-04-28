@@ -1,4 +1,4 @@
-# Cinnamoroll![](https://visitor-badge.laobi.icu/badge?page_id=Cinnamoroll-Rabbit.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
+# Cinnamoroll![](https://visitor-badge.laobi.icu/badge?page_id=Cinnamoroll-Rabbit.readme) 
 
 喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是。
 
