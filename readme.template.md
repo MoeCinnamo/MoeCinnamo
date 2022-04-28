@@ -51,7 +51,7 @@
 <!-- opensource_toys -->
 
 **最近写了...**
-此处无法展示recent_posts_inject
+内容开发中，请稍后... recent_posts_inject
 
 **最近赞了...**
 
