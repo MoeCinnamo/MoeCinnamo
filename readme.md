@@ -52,11 +52,11 @@
 
 **最近写了...**
 
-<ul><li><span>3/8/22 - <a href=https://innei.ren/posts/programming/remix-get-initial-data-for-root>Remix 首屏数据注入的 HACK 方式</a></span></li><li><span>1/14/22 - <a href=https://innei.ren/posts/programming/how-to-handle-nextjs-getInitialProps-error>在 NextJS 预获取数据时正确处理异常请求</a></span><p>Emmm.. 这个问题困恼我两年之久，终于得以解开。</p></li><li><span>1/10/22 - <a href=https://innei.ren/posts/technology/2022-frontend-is-so-juan>2022 年学习前端需要学点什么</a></span><p>前端真是太卷了，卷卷卷卷卷卷卷</p></li><li><span>1/3/22 - <a href=https://innei.ren/posts/learning-process/thinking-with-js-event-loop>由一个钟表引发的思考</a></span></li><li><span>12/14/21 - <a href=https://innei.ren/posts/programming/sdk-unit-test-and-e2e>编写接口请求库单元测试与 E2E 测试的思考</a></span><p>在做接口请求 JS SDK 时做的一些思考与尝试。不知道有没有更好的办法。还请指点</p></li></ul>
+<ul><li><span>3/8/22 - <a href=https://blog.mojy.xyz/posts/programming/remix-get-initial-data-for-root>Remix 首屏数据注入的 HACK 方式</a></span></li><li><span>1/14/22 - <a href=https://blog.mojy.xyz/posts/programming/how-to-handle-nextjs-getInitialProps-error>在 NextJS 预获取数据时正确处理异常请求</a></span><p>Emmm.. 这个问题困恼我两年之久，终于得以解开。</p></li><li><span>1/10/22 - <a href=https://blog.mojy.xyz/posts/technology/2022-frontend-is-so-juan>2022 年学习前端需要学点什么</a></span><p>前端真是太卷了，卷卷卷卷卷卷卷</p></li><li><span>1/3/22 - <a href=https://blog.mojy.xyz/posts/learning-process/thinking-with-js-event-loop>由一个钟表引发的思考</a></span></li><li><span>12/14/21 - <a href=https://blog.mojy.xyz/posts/programming/sdk-unit-test-and-e2e>编写接口请求库单元测试与 E2E 测试的思考</a></span><p>在做接口请求 JS SDK 时做的一些思考与尝试。不知道有没有更好的办法。还请指点</p></li></ul>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Cinnamoroll-Home/CloudDisk-Static-Template>Cinnamoroll-Home/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li></ul>
+<ul><li><a href=https://github.com/Cinnamoroll-Rabbit/blog>Cinnamoroll-Rabbit/blog</a><p>A moe blog</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/Cinnamoroll-Home/CloudDisk-Static-Template>Cinnamoroll-Home/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li></ul>
 
 **曾经看了...**
 
@@ -70,4 +70,4 @@
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/22, 4:43 PM<br>下一次刷新：4/28/22, 7:43 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/22, 4:56 PM<br>下一次刷新：4/28/22, 7:56 PM</p>
