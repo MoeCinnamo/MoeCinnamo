@@ -1,0 +1,36 @@
+{
+  "name": "Cinnamoroll-Rabbit",
+  "private": true,
+  "description": "Cinnamoroll-Rabbit's profile",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev index.ts",
+    "build": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cinnamoroll-Rabbit/Cinnamoroll-Rabbit.git"
+  },
+  "keywords": [],
+  "author": "Cinnamoroll-Rabbit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cinnamoroll-Rabbit/Cinnamoroll-Rabbit/issues"
+  },
+  "homepage": "https://github.com/Cinnamoroll-Rabbit/Cinnamoroll-Rabbit#readme",
+  "dependencies": {
+    "@types/html-minifier": "4.0.1",
+    "@types/node": "16.10.3",
+    "axios": "0.22.0",
+    "dayjs": "1.10.7",
+    "html-minifier": "4.0.0",
+    "lodash": "4.17.21",
+    "retry-axios": "2.6.0",
+    "ts-node": "10.3.0",
+    "typescript": "4.4.3"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "12.2.3",
+    "markdown-it": "12.3.0"
+  }
+}
