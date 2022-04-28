@@ -20,7 +20,7 @@ export const github = {
 
 export const mxSpace = {
   url: 'https://blog.mojy.xyz',
-  api: 'https://blog.mojy.xyz/api',
+  api: 'https://blog.mojy.xyz/api/',
 }
 
 export const timeZone = 'Asia/Shanghai'
