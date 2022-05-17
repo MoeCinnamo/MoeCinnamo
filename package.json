@@ -1,7 +1,7 @@
 {
-  "name": "Cinnamoroll-Rabbit",
+  "name": "MoeCinnamo",
   "private": true,
-  "description": "Cinnamoroll-Rabbit's profile",
+  "description": "MoeCinnamo's profile",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev index.ts",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cinnamoroll-Rabbit/Cinnamoroll-Rabbit.git"
+    "url": "git+https://github.com/MoeCinnamo/MoeCinnamo.git"
   },
   "keywords": [],
   "author": "Cinnamoroll-Rabbit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cinnamoroll-Rabbit/Cinnamoroll-Rabbit/issues"
+    "url": "https://github.com/MoeCinnamo/MoeCinnamo/issues"
   },
-  "homepage": "https://github.com/Cinnamoroll-Rabbit/Cinnamoroll-Rabbit#readme",
+  "homepage": "https://github.com/MoeCinnamo/MoeCinnamo#readme",
   "dependencies": {
     "@types/html-minifier": "4.0.1",
     "@types/node": "16.10.3",
