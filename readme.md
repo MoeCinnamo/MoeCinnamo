@@ -1,4 +1,4 @@
-# Cinnamoroll![](https://visitor-badge.laobi.icu/badge?page_id=Cinnamoroll-Rabbit.readme) 
+# Cinnamo![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
 
 喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是。
 
@@ -63,10 +63,10 @@
 
 **你能找到我吗**
 
-<p><a href="https://github.com/Cinnamoroll-Rabbit" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://github.com/MoeCinnamo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://blog.mojy.xyz" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-blog.mojy.xyz-yellowgreen" /></a>
 
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/17/22, 6:55 PM<br>下一次刷新：5/17/22, 9:55 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/17/22, 7:03 PM<br>下一次刷新：5/17/22, 10:03 PM</p>
