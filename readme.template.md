@@ -1,4 +1,4 @@
-# Cinnamoroll![](https://visitor-badge.laobi.icu/badge?page_id=Cinnamoroll-Rabbit.readme) 
+# Cinnamo![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
 
 喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是。
 
@@ -63,7 +63,7 @@
 
 **你能找到我吗**
 
-<p><a href="https://github.com/Cinnamoroll-Rabbit" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://github.com/MoeCinnamo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://blog.mojy.xyz" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-blog.mojy.xyz-yellowgreen" /></a>
 
 ------------
