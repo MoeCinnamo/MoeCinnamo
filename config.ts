@@ -15,7 +15,7 @@ export const opensource = {
 }
 export const motto = `<p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>`
 export const github = {
-  name: 'Cinnamoroll-Rabbit',
+  name: 'MoeCinnamo',
 }
 
 export const mxSpace = {
