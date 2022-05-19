@@ -4,6 +4,7 @@ export const opensource = {
     'Cinnamoroll-Home/ShortUrl-Static',
     'Cinnamoroll-Home/ShortUrl-PHP',
     'Cinnamoroll-Home/CloudDisk-Static-Template',
+    'wms-community/storehouse-management-server',
   ],
   toys: {
     limit: 3,
