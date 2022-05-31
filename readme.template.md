@@ -49,8 +49,10 @@
 
 <!-- opensource_toys -->
 
+<!--
 **最近写了...**
-内容开发中，请稍后... recent_posts_inject
+recent_posts_inject
+-->
 
 **最近赞了...**
 
