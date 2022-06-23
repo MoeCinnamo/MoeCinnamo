@@ -47,7 +47,7 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MoeCinnamo/Password-Creater target=_blank><b>MoeCinnamo/Password-Creater</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MoeCinnamo/Password-Creater?style=flat-square&labelColor=343b41"></td><td>6/23/2022</td><td>6/23/2022</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -60,7 +60,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li><li><a href=https://github.com/Cinnamoroll-Home/CloudDisk-Static-Template>Cinnamoroll-Home/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li></ul>
+<ul><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>全中文，分布式，高扩展性，开箱即用，支持 Docker，兼容 Minecraft 和其他部分游戏的服务端程序管理面板</p></li><li><a href=https://github.com/Cinnamoroll-Home/CloudDisk-Static-Template>Cinnamoroll-Home/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li></ul>
 
 **你能找到我吗**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/23/22, 2:00 PM<br>下一次刷新：6/23/22, 5:00 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/23/22, 4:10 PM<br>下一次刷新：6/23/22, 7:10 PM</p>
