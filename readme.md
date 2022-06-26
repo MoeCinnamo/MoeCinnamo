@@ -4,7 +4,14 @@
 
 在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。他具备以下技能：
 
+# Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
+
+Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高职生。
+
+他对于计算机十分感兴趣，正在不断学习，以扩充其知识面，他学习过以下技术:
+
 **Web Developer**
+
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -13,15 +20,28 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=popout">
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="TailwindCSS"src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Backend Developer (maybe)**
+**Backend Developer**
 
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-13aa52?style=flat-square&logo=express&logoColor=white" />  
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
+</p>
+
+**Android Developer**
+
+<p>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Android" src="https://img.shields.io/badge/-Android-5BA17F?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sqlite-1572B6.svg?logo=Sqlite&style=popout">
 </p>
 
 **DevOps**
@@ -37,8 +57,7 @@
 
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
+  <img alt="vscode" src="https://img.shields.io/badge/-WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white" />
 </p>
 
 **开源在...**
@@ -60,7 +79,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/wms-community/storehouse-management-server>wms-community/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>全中文，分布式，高扩展性，开箱即用，支持 Docker，兼容 Minecraft 和其他部分游戏的服务端程序管理面板</p></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><p>🔥 The 2.x of vuepress-theme-reco.</p></li><li><a href=https://github.com/wms-community/storehouse-management-manual>wms-community/storehouse-management-manual</a><p>Manual of storehouse management server.</p></li></ul>
+<ul><li><a href=https://github.com/wms-community/storehouse-management-server>wms-community/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/wms-community/storehouse-management-manual>wms-community/storehouse-management-manual</a><p>Manual of storehouse management server.</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li></ul>
 
 **你能找到我吗**
 
@@ -70,4 +89,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 8:00 PM<br>下一次刷新：6/26/22, 11:00 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 8:02 PM<br>下一次刷新：6/26/22, 11:02 PM</p>
