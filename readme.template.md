@@ -1,14 +1,10 @@
-# Cinnamo![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
+# Cinnamo🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
 
-喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是。
+喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是，目前也是在 *星职专 的一位中职生。
 
-在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。他具备以下技能：
+她对于计算机十分感兴趣，正在不断学习，以扩充其知识面
 
-# Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
-
-Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高职生。
-
-他对于计算机十分感兴趣，正在不断学习，以扩充其知识面，他学习过以下技术:
+在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。她具备以下技能：
 
 **Web Developer**
 
