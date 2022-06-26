@@ -1,14 +1,10 @@
-# Cinnamo![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
+# Cinnamo🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
 
-喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是。
+喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是，目前也是在 *星职专 的一位中职生。
 
-在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。他具备以下技能：
+她对于计算机十分感兴趣，正在不断学习，以扩充其知识面
 
-# Suemor 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Elmge.readme)
-
-Suemor 是一个正在学习前端的萌新，今年18岁，目前是一名高职生。
-
-他对于计算机十分感兴趣，正在不断学习，以扩充其知识面，他学习过以下技术:
+在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。她具备以下技能：
 
 **Web Developer**
 
@@ -79,7 +75,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wms-community/storehouse-management-server>wms-community/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/wms-community/storehouse-management-manual>wms-community/storehouse-management-manual</a><p>Manual of storehouse management server.</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li></ul>
+<ul><li><a href=https://github.com/Cinnamoroll-Home/CloudDisk-Static-Template>Cinnamoroll-Home/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/wms-community/storehouse-management-manual>wms-community/storehouse-management-manual</a><p>Manual of storehouse management server.</p></li><li><a href=https://github.com/wms-community/storehouse-management-server>wms-community/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li></ul>
 
 **你能找到我吗**
 
@@ -89,4 +85,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 8:02 PM<br>下一次刷新：6/26/22, 11:02 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 8:04 PM<br>下一次刷新：6/26/22, 11:04 PM</p>
