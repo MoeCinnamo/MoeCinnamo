@@ -20,9 +20,9 @@ export const github = {
   name: 'MoeCinnamo',
 }
 
-//export const mxSpace = {
-//  url: 'https://blog.mojy.xyz',
-//  api: 'https://blogfrount.mojy.xyz/api',
-//}
+export const mxSpace = {
+  url: 'https://innei.ren',
+  api: 'https://api.innei.ren/v2',
+}
 
 export const timeZone = 'Asia/Shanghai'
