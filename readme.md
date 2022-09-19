@@ -1,4 +1,4 @@
-# Cinnamo🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
+# Cinnamo🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) [![wakatime](https://wakatime.com/badge/user/7152d2a2-2ea9-4d0b-846e-e9241eb97026.svg)](https://wakatime.com/@7152d2a2-2ea9-4d0b-846e-e9241eb97026)
 
 喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是，目前也是在 *星职专 的一位中职生。
 
@@ -75,7 +75,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Lightweight, Multi-Node, out-of-the-box, i18n, supports docker, Minecraft server and console software management panel</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><p>🔥 The 2.x of vuepress-theme-reco.</p></li></ul>
+<ul><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Lightweight, Multi-Node, out-of-the-box, i18n, supports docker, Minecraft server and console software management panel</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li></ul>
 
 **你能找到我吗**
 
@@ -85,4 +85,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/19/22, 7:18 PM<br>下一次刷新：9/20/22, 7:18 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：9/19/22, 7:30 PM<br>下一次刷新：9/20/22, 7:30 PM</p>
