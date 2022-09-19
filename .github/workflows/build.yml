@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 */24 * * *'
 
 jobs:
   build:
@@ -30,6 +30,7 @@ jobs:
           key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-${{ hashFiles('**/pnpm-lock.yaml') }}
           restore-keys: |
             ${{ runner.os }}-build-${{ env.cache-name }}-${{ matrix.node-version }}-
+
       - uses: pnpm/action-setup@v2.0.1
         with:
           version: 6.0.2
