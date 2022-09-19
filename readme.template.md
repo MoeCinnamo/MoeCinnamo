@@ -1,4 +1,4 @@
-# Cinnamo🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) 
+# Cinnamo🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=MoeCinnamo.readme) [![wakatime](https://wakatime.com/badge/user/7152d2a2-2ea9-4d0b-846e-e9241eb97026.svg)](https://wakatime.com/@7152d2a2-2ea9-4d0b-846e-e9241eb97026)
 
 喵千寻 是一个软萌、可爱，热衷于探索并开发新事物的菜鸟。喜欢弄这弄那，但是弄的啥都不是，目前也是在 *星职专 的一位中职生。
 
