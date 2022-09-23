@@ -1,10 +1,11 @@
 export const opensource = {
   active: [
     //'',
-    'Cinnamoroll-Home/ShortUrl-Static',
-    'Cinnamoroll-Home/ShortUrl-PHP',
-    'Cinnamoroll-Home/CloudDisk-Static-Template',
-    'wms-community/storehouse-management-server',
+    'SANYIMOE/TemHumWea',
+    'SANYIMOE/ShortUrl-Static',
+    'SANYIMOE/ShortUrl-PHP',
+    'SANYIMOE/CloudDisk-Static-Template',
+    'SANYIMOE/storehouse-management-server',
   ],
   toys: {
     limit: 3,
