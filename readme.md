@@ -75,7 +75,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><p>🔥 The 2.x of vuepress-theme-reco.</p></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><p>:cake: A powerful plugin connect APlayer and Meting</p></li><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li></ul>
+<ul><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><p>:cake: A powerful plugin connect APlayer and Meting</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Lightweight, Multi-Node, out-of-the-box, i18n, supports docker, Minecraft server and console software management panel</p></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><p>🔥 The 2.x of vuepress-theme-reco.</p></li></ul>
 
 **你能找到我吗**
 
@@ -85,4 +85,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/8/22, 9:15 AM<br>下一次刷新：10/9/22, 9:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：10/9/22, 9:21 AM<br>下一次刷新：10/10/22, 9:21 AM</p>
