@@ -62,7 +62,7 @@
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MoeCinnamo/Password-Creater target=_blank><b>MoeCinnamo/Password-Creater</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MoeCinnamo/Password-Creater?style=flat-square&labelColor=343b41"></td><td>6/23/2022</td><td>6/23/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MoeCinnamo/Password-Creater target=_blank><b>MoeCinnamo/Password-Creater</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MoeCinnamo/Password-Creater?style=flat-square&labelColor=343b41"></td><td>6/23/2022</td><td>12/1/2022</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -75,7 +75,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><p>Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</p></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><p>开往-友链接力</p></li><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and all console programs.</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li></ul>
+<ul><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><p>:cake: A powerful plugin connect APlayer and Meting</p></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><p>🔥 The 2.x of vuepress-theme-reco.</p></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and all console programs.</p></li></ul>
 
 **你能找到我吗**
 
@@ -85,4 +85,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/1/22, 9:09 AM<br>下一次刷新：12/2/22, 9:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：12/2/22, 8:58 AM<br>下一次刷新：12/3/22, 8:58 AM</p>
