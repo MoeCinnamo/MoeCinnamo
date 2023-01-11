@@ -71,11 +71,11 @@ recent_posts_inject
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a><p>A rule-based tunnel in Go.</p></li><li><a href=https://github.com/Moe-CMS/MoeForum>Moe-CMS/MoeForum</a><p>A simple and lovely forum system. It is based on Discuz! It is simple but not simple.</p></li><li><a href=https://github.com/Anankke/SSPanel-Uim>Anankke/SSPanel-Uim</a><p>SSPanel V3 魔改再次修改版</p></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><p>Temperature, humidity and weather.</p></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><p>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</p></li></ul>
+<ul><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><p>Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</p></li><li><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a><p>A rule-based tunnel in Go.</p></li><li><a href=https://github.com/Moe-CMS/MoeForum>Moe-CMS/MoeForum</a><p>A simple and lovely forum system. It is based on Discuz! It is simple but not simple.</p></li><li><a href=https://github.com/Anankke/SSPanel-Uim>Anankke/SSPanel-Uim</a><p>SSPanel V3 魔改再次修改版</p></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><p>Temperature, humidity and weather.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and all console programs.</p></li></ul>
+<ul><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><p>:musical_note: A simple & beautiful HTML5 music player</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><p>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li></ul>
 
 **你能找到我吗**
 
@@ -85,4 +85,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/10/23, 9:00 AM<br>下一次刷新：1/11/23, 9:00 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/11/23, 8:58 AM<br>下一次刷新：1/12/23, 8:58 AM</p>
