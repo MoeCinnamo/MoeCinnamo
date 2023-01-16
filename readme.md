@@ -75,7 +75,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><p>:cake: A powerful plugin connect APlayer and Meting</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and all console programs.</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li></ul>
+<ul><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><p>:cake: A powerful plugin connect APlayer and Meting</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</p></li></ul>
 
 **你能找到我吗**
 
@@ -85,4 +85,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/15/23, 9:01 AM<br>下一次刷新：1/16/23, 9:01 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/16/23, 8:58 AM<br>下一次刷新：1/17/23, 8:58 AM</p>
