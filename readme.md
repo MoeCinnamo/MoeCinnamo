@@ -75,7 +75,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and all console programs.</p></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><p>🔥 The 2.x of vuepress-theme-reco.</p></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><p>开往-友链接力</p></li></ul>
+<ul><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><p>🔥 The 2.x of vuepress-theme-reco.</p></li><li><a href=https://github.com/SANYIMOE/storehouse-management-server>SANYIMOE/storehouse-management-server</a><p>A simple and efficient warehouse management system.</p></li><li><a href=https://github.com/MoeCinnamo/blog>MoeCinnamo/blog</a><p>A moe blog</p></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><p>Virtual machines for iOS and macOS</p></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><p>CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</p></li></ul>
 
 **你能找到我吗**
 
@@ -85,4 +85,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/29/23, 9:03 AM<br>下一次刷新：1/30/23, 9:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/30/23, 8:55 AM<br>下一次刷新：1/31/23, 8:55 AM</p>
