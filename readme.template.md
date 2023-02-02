@@ -32,6 +32,8 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
 </p>
 
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MoeCinnamo&theme=dark&show_icons=true">
+
 **Android Developer**
 
 <p>
@@ -48,8 +50,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
-
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MoeCinnamo&theme=dark&show_icons=true">
 
 **Environment**
 
