@@ -56,6 +56,8 @@
   <img alt="vscode" src="https://img.shields.io/badge/-WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white" />
 </p>
 
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MoeCinnamo&theme=dark&show_icons=true">
+
 **开源在...**
 
 <!-- opensource_dashboard:active -->
