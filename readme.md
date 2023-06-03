@@ -77,7 +77,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><p>:cake: A powerful plugin connect APlayer and Meting</p></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><p>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><p>Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</p></li><li><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a><p>A rule-based tunnel in Go.</p></li><li><a href=https://github.com/Anankke/SSPanel-Uim>Anankke/SSPanel-Uim</a><p>SSPanel V3 魔改再次修改版</p></li></ul>
+<ul><li><a href=https://github.com/mx-space/core>mx-space/core</a><p>😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</p></li><li><a href=https://github.com/Dreamacro/clash>Dreamacro/clash</a><p>A rule-based tunnel in Go.</p></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><p>Home of MineOS and it's software for OpenComputers mod</p></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><p>Temperature, humidity and weather.</p></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><p>Distributed, Docker-supported, Multilingual, and Lightweight control panel for Minecraft server and more.</p></li></ul>
 
 **你能找到我吗**
 
@@ -87,4 +87,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/2/23, 9:03 AM<br>下一次刷新：6/3/23, 9:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：6/3/23, 9:01 AM<br>下一次刷新：6/4/23, 9:01 AM</p>
