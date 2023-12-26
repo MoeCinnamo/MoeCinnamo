@@ -5,7 +5,6 @@ export const opensource = {
     'SANYIMOE/ShortUrl-Static',
     'SANYIMOE/ShortUrl-PHP',
     'SANYIMOE/CloudDisk-Static-Template',
-    'SANYIMOE/storehouse-management-server',
   ],
   toys: {
     limit: 3,
