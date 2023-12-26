@@ -4,7 +4,7 @@ import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import MarkdownIt from 'markdown-it'
-import rax from 'retry-axios'
+import * as rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
@@ -152,7 +152,7 @@ ${tbody}
 
 function generateRepoHTML<T extends GHItem>(item: T) {
   return `<li><a href="${item.html_url}">${item.full_name}</a>${
-    item.description ? `<p>${item.description}</p>` : ''
+    item.description ? `<span>  ${item.description}</span>` : ''
   }</li>`
 }
 
