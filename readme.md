@@ -77,7 +77,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><span> Temperature, humidity and weather.</span></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><span> 开往-友链接力</span></li><li><a href=https://github.com/Anankke/SSPanel-Uim>Anankke/SSPanel-Uim</a><span> SSPanel V3 魔改再次修改版</span></li></ul>
+<ul><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/Anankke/SSPanel-Uim>Anankke/SSPanel-Uim</a><span> SSPanel V3 魔改再次修改版</span></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li></ul>
 
 **你能找到我吗**
 
@@ -87,4 +87,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/26/24, 8:53 AM<br>下一次刷新：1/27/24, 8:53 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：1/27/24, 8:52 AM<br>下一次刷新：1/28/24, 8:52 AM</p>
