@@ -77,7 +77,7 @@ recent_posts_inject
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><span> Temperature, humidity and weather.</span></li><li><a href=https://github.com/Anankke/SSPanel-UIM>Anankke/SSPanel-UIM</a><span> Multi-purpose proxy service management system</span></li></ul>
+<ul><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><span> Free, Secure, Distributed, Modern Control Panel for Minecraft and Steam Game Servers.</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> 😎 The next generation of RESTful API service and more feature for Mix Space, powered by @nestjs.</span></li><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li></ul>
 
 **你能找到我吗**
 
@@ -87,4 +87,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/21/24, 8:58 AM<br>下一次刷新：4/22/24, 8:58 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：4/22/24, 8:56 AM<br>下一次刷新：4/23/24, 8:56 AM</p>
