@@ -63,6 +63,7 @@ type GHItem = {
   html_url: string
 }
 
+/* 
 type PostItem = {
   title: string
   summary: string
@@ -74,7 +75,8 @@ type PostItem = {
     name: string
     slug: string
   }
-}
+} */
+
 /**
  * 生成 `开源在` 结构
  */
