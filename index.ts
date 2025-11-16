@@ -151,13 +151,14 @@ ${tbody}
 /**
  * 生成 Repo  HTML 结构
  */
-/*
+
 function generateRepoHTML<T extends GHItem>(item: T) {
   return `<li><a href="${item.html_url}">${item.full_name}</a>${
     item.description ? `<span>  ${item.description}</span>` : ''
   }</li>`
 }
 
+/*
 function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
   return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
     dateStyle: 'short',
@@ -241,7 +242,7 @@ ${topStar5}
       `,
     )
   }
-
+/*
   {
     const posts = await mxClient.aggregate
       .getTimeline()
@@ -271,7 +272,7 @@ ${topStar5}
       `,
     )
   }
-
+*/
   // 注入 FOOTER
   {
     const now = new Date()
