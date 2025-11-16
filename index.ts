@@ -281,15 +281,15 @@ ${topStar5}
     newContent = newContent.replace(
       gc('FOOTER'),
       m`
-    <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
+    <p align="center">このファイル <i>README</i> <b> 24 時間間隔</b>自動リフレッシュ生成！
     </br>
-    刷新于：${now.toLocaleString(undefined, {
+    更新先：${now.toLocaleString(undefined, {
       timeStyle: 'short',
       dateStyle: 'short',
       timeZone,
     })}
     <br/>
-    下一次刷新：${next.toLocaleString(undefined, {
+    次のリフレッシュ:${next.toLocaleString(undefined, {
       timeStyle: 'short',
       dateStyle: 'short',
       timeZone,
