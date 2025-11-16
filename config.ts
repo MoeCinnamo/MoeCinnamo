@@ -1,10 +1,8 @@
 export const opensource = {
   active: [
     //'',
-    'SANYIMOE/TemHumWea',
-    'SANYIMOE/ShortUrl-Static',
-    'SANYIMOE/ShortUrl-PHP',
-    'SANYIMOE/CloudDisk-Static-Template',
+    'cloudcat-org/MeowllowOS',
+    'IntelligentlyEverything/MeowEmbeddedMusicServer'
   ],
   toys: {
     limit: 3,
