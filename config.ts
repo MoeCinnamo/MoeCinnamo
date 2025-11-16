@@ -18,9 +18,9 @@ export const github = {
   name: 'MoeCinnamo',
 }
 
-export const mxSpace = {
+/*export const mxSpace = {
   url: 'https://innei.in',
   api: 'https://ingress.innei.in/api/v2',
-}
+}*/
 
-export const timeZone = 'Asia/Shanghai'
+export const timeZone = 'Asia/Hong_Kong'
