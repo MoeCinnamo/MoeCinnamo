@@ -302,8 +302,8 @@ ${topStar5}
   await rm('./readme.md', { force: true })
   await writeFile('./readme.md', newContent, { encoding: 'utf-8' })
 
-  const result = md.render(newContent)
-  await writeFile('./index.html', result, { encoding: 'utf-8' })
+  <!-- const result = md.render(newContent)
+  await writeFile('./index.html', result, { encoding: 'utf-8' }) -->
 }
 
 function gc(token: keyof typeof COMMNETS) {
