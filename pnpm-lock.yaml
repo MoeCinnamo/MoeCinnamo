@@ -1470,7 +1470,7 @@ packages:
     dev: false
 
   /sponsorkit/0.9.0:
-    resolution: {integrity: sha512-wn7XAc6HWT+vj9xUxixrOkBYNM+7aDWpwpOE4VqtCWtcaEZGG1mK1jeUrxC8vGo48U9o2blNX8B5X3NhBTe3Kw==}
+    resolution: {integrity: sha512-H9pTd6uAGp1cjemB/JqEl1pqdzETUMI1hXlZgVAIfhFCw8rBuCXg8ppCC+aYE9VdpJP8+74BOrwNJ2l9um9Wmw==}
     hasBin: true
     dependencies:
       consola: 3.2.3
