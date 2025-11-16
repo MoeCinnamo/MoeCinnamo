@@ -8,15 +8,15 @@ import * as rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
-import {
+/* import {
   AggregateController,
   createClient,
   NoteModel,
   PostModel,
-} from '@mx-space/api-client'
+} from '@mx-space/api-client' */
 import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
 
-const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
+/* const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
   controllers: [AggregateController],
 })
 
@@ -27,7 +27,7 @@ axiosAdaptor.default.interceptors.request.use((req) => {
 
 const md = new MarkdownIt({
   html: true,
-})
+}) */
 const githubAPIEndPoint = 'https://api.github.com'
 
 rax.attach()
