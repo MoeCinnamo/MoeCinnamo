@@ -23,11 +23,11 @@ import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
 axiosAdaptor.default.interceptors.request.use((req) => {
   req.headers && (req.headers['User-Agent'] = 'Innei profile')
   return req
-})
+}) */
 
 const md = new MarkdownIt({
   html: true,
-}) */
+})
 const githubAPIEndPoint = 'https://api.github.com'
 
 rax.attach()
@@ -302,8 +302,8 @@ ${topStar5}
   await rm('./readme.md', { force: true })
   await writeFile('./readme.md', newContent, { encoding: 'utf-8' })
 
-  <!-- const result = md.render(newContent)
-  await writeFile('./index.html', result, { encoding: 'utf-8' }) -->
+  const result = md.render(newContent)
+  await writeFile('./index.html', result, { encoding: 'utf-8' })
 }
 
 function gc(token: keyof typeof COMMNETS) {
