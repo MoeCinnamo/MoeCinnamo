@@ -151,7 +151,7 @@ ${tbody}
 /**
  * 生成 Repo  HTML 结构
  */
-
+/*
 function generateRepoHTML<T extends GHItem>(item: T) {
   return `<li><a href="${item.html_url}">${item.full_name}</a>${
     item.description ? `<span>  ${item.description}</span>` : ''
@@ -177,6 +177,7 @@ function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
     item.title
   }</a></span></li>`
 }
+*/
 
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
