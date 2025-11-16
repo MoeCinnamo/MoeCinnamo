@@ -15,7 +15,7 @@
   <img alt="TailwindCSS"src="https://img.shields.io/badge/-Tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MoeCinnamo&theme=dark&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MoeCinnamo&theme=light&show_icons=true">
 
 **Backend Developer**
 
