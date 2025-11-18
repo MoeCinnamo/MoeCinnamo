@@ -2,7 +2,7 @@
 
 かわいい女子大生で、彼女は以下のスキルを得意としています：
 
-**訪問数(2025年11月18日から)**
+**訪問数**
 
 ![](https://count.getloli.com/get/@moecinnamo?theme=moebooru)
 
