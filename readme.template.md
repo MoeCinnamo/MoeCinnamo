@@ -51,7 +51,7 @@
 
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/-WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=accenture&logoColor=white" />
 </p>
 
 **開源は...**
