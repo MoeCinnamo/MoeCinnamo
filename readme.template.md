@@ -2,8 +2,10 @@
 
 かわいい女子大生で、彼女は以下のスキルを得意としています：
 
-**Web Developer**
+## 訪問数
+![](https://count.getloli.com/get/@moecinnamo?theme=moebooru)
 
+**ウェブ開発者**
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
@@ -17,7 +19,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=MoeCinnamo&theme=light&show_icons=true">
 
-**Backend Developer**
+**バックエンド 開発者**
 
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -27,7 +29,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=Mysql&logoColor=white" />
 </p>
 
-**Android Developer**
+**Android 開発者**
 
 <p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -44,7 +46,7 @@
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-DB652A?style=flat-square&logo=debian&logoColor=white" />
 </p>
 
-**Environment**
+**環境**
 
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
