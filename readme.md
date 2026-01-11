@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><span> Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers / 一键安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/Anankke/SSPanel-UIM>Anankke/SSPanel-UIM</a><span> Multi-purpose proxy service management system</span></li><li><a href=https://github.com/MoeCinnamo/Office-E5>MoeCinnamo/Office-E5</a><span> Office E5 订阅，使用Github Action 自动调用API。By Java</span></li></ul>
+<ul><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><span> Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</span></li><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：1/10/26, 10:00 AM<br>次のリフレッシュ:1/11/26, 10:00 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：1/11/26, 10:12 AM<br>次のリフレッシュ:1/12/26, 10:12 AM</p>
