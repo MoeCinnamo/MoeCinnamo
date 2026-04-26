@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/wangpengfei15975/skPlayer>wangpengfei15975/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><span> Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers / 快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/topjohncian/cloudreve-epay>topjohncian/cloudreve-epay</a><span> Cloudreve Pro 易支付 支持 (点个 Star 不迷路~)</span></li></ul>
+<ul><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><span> Temperature, humidity and weather.</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/MoeV2Board/v2board-freenode>MoeV2Board/v2board-freenode</a><span> Provide free node support for V2Board.</span></li><li><a href=https://github.com/topjohncian/cloudreve-epay>topjohncian/cloudreve-epay</a><span> Cloudreve Pro 易支付 支持 (点个 Star 不迷路~)</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：4/25/26, 10:50 AM<br>次のリフレッシュ:4/26/26, 10:50 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：4/26/26, 11:28 AM<br>次のリフレッシュ:4/27/26, 11:28 AM</p>
