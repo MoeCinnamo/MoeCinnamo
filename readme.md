@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><span> Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers / 快速安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows.</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li></ul>
+<ul><li><a href=https://github.com/MoeV2Board/v2board-freenode>MoeV2Board/v2board-freenode</a><span> Provide free node support for V2Board.</span></li><li><a href=https://github.com/Anankke/SSPanel-UIM>Anankke/SSPanel-UIM</a><span> Multi-purpose proxy service management system</span></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><span> Temperature, humidity and weather.</span></li><li><a href=https://github.com/MoeCinnamo/Office-E5>MoeCinnamo/Office-E5</a><span> Office E5 订阅，使用Github Action 自动调用API。By Java</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：5/20/26, 11:58 AM<br>次のリフレッシュ:5/21/26, 11:58 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：5/21/26, 12:08 PM<br>次のリフレッシュ:5/22/26, 12:08 PM</p>
