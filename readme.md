@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/Anankke/SSPanel-UIM>Anankke/SSPanel-UIM</a><span> Multi-purpose proxy service management system</span></li><li><a href=https://github.com/feilongcheng/skPlayer>feilongcheng/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/OmniX-Space/MeowMusicServer>OmniX-Space/MeowMusicServer</a><span> Your aggregated music API&private music player.</span></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><span> Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</span></li></ul>
+<ul><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：7/8/26, 11:16 AM<br>次のリフレッシュ:7/9/26, 11:16 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：7/9/26, 11:40 AM<br>次のリフレッシュ:7/10/26, 11:40 AM</p>
