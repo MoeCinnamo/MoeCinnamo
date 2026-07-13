@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/MoeCinnamo/Office-E5>MoeCinnamo/Office-E5</a><span> Office E5 订阅，使用Github Action 自动调用API。By Java</span></li><li><a href=https://github.com/OmniX-Space/MeowMusicServer>OmniX-Space/MeowMusicServer</a><span> Your aggregated music API&private music player.</span></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><span> 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。</span></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li></ul>
+<ul><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows.</span></li><li><a href=https://github.com/imuncle/gitblog>imuncle/gitblog</a><span> 基于git issue的轻量级个人博客模板。</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><span> 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：7/12/26, 11:21 AM<br>次のリフレッシュ:7/13/26, 11:21 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：7/13/26, 11:24 AM<br>次のリフレッシュ:7/14/26, 11:24 AM</p>
