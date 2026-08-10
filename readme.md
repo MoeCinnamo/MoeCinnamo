@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows.</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li><li><a href=https://github.com/MoeV2Board/v2board-freenode>MoeV2Board/v2board-freenode</a><span> Provide free node support for V2Board.</span></li></ul>
+<ul><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows.</span></li><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/MoeCinnamo/Office-E5>MoeCinnamo/Office-E5</a><span> Office E5 订阅，使用Github Action 自动调用API。By Java</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：8/9/26, 10:00 AM<br>次のリフレッシュ:8/10/26, 10:00 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：8/10/26, 10:04 AM<br>次のリフレッシュ:8/11/26, 10:04 AM</p>
