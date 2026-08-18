@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><span> Temperature, humidity and weather.</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/topjohncian/cloudreve-epay>topjohncian/cloudreve-epay</a><span> Cloudreve Pro 易支付 支持 (点个 Star 不迷路~)</span></li><li><a href=https://github.com/feilongcheng/skPlayer>feilongcheng/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li></ul>
+<ul><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/OmniX-Space/MeowBox-Core>OmniX-Space/MeowBox-Core</a><span> My Music Space.</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows.</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：8/17/26, 9:34 AM<br>次のリフレッシュ:8/18/26, 9:34 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：8/18/26, 9:24 AM<br>次のリフレッシュ:8/19/26, 9:24 AM</p>
