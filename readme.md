@@ -70,11 +70,11 @@ recent_posts_inject
 
 **最近いいね...**
 
-<ul><li><a href=https://github.com/punguin-32k/penguin-wifi-helper>punguin-32k/penguin-wifi-helper</a><span> 企鹅WIFI助手</span></li><li><a href=https://github.com/curl/curl>curl/curl</a><span> A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</span></li><li><a href=https://github.com/shuding/liquid-glass>shuding/liquid-glass</a><span> Copy-paste Liquid Glass shader with SVG</span></li><li><a href=https://github.com/phpple/caddy2-cn-doc>phpple/caddy2-cn-doc</a><span> Caddy 2的中文文档</span></li><li><a href=https://github.com/suyu-ai/chatGPT-apiKey>suyu-ai/chatGPT-apiKey</a><span> 🌥️ 速语API | OpenAI官方中转服务 🌥️ https://suyu.io 🔥 官方价格1:1 🔥 1元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持</span></li></ul>
+<ul><li><a href=https://github.com/Leizhidong-creator/Multi-Agent-Disaster-Simulation>Leizhidong-creator/Multi-Agent-Disaster-Simulation</a></li><li><a href=https://github.com/Leizhidong-creator/AI-Meeting-Room-System>Leizhidong-creator/AI-Meeting-Room-System</a></li><li><a href=https://github.com/Leizhidong-creator/Classical-Gardens-of-Suzhou>Leizhidong-creator/Classical-Gardens-of-Suzhou</a></li><li><a href=https://github.com/Leizhidong-creator/leizhidong-myself>Leizhidong-creator/leizhidong-myself</a></li><li><a href=https://github.com/punguin-32k/penguin-wifi-helper>punguin-32k/penguin-wifi-helper</a><span> 企鹅WIFI助手</span></li></ul>
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/metowolf/MetingJS>metowolf/MetingJS</a><span> :cake: A powerful plugin connect APlayer and Meting</span></li><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><span> Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li></ul>
+<ul><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><span> Temperature, humidity and weather.</span></li><li><a href=https://github.com/phpple/caddy2-cn-doc>phpple/caddy2-cn-doc</a><span> Caddy 2的中文文档</span></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/shuding/liquid-glass>shuding/liquid-glass</a><span> Copy-paste Liquid Glass shader with SVG</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：8/24/26, 9:36 AM<br>次のリフレッシュ:8/25/26, 9:36 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：8/25/26, 9:26 AM<br>次のリフレッシュ:8/26/26, 9:26 AM</p>
