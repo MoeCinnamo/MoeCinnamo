@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><span> 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。</span></li><li><a href=https://github.com/phpple/caddy2-cn-doc>phpple/caddy2-cn-doc</a><span> Caddy 2的中文文档</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/feilongcheng/skPlayer>feilongcheng/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li></ul>
+<ul><li><a href=https://github.com/feilongcheng/skPlayer>feilongcheng/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/imuncle/gitblog>imuncle/gitblog</a><span> 基于git issue的轻量级个人博客模板。</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/3/26, 12:35 PM<br>次のリフレッシュ:10/4/26, 12:35 PM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/4/26, 1:06 PM<br>次のリフレッシュ:10/5/26, 1:06 PM</p>
