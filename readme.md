@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/SANYIMOE/CloudDisk-Static-Template>SANYIMOE/CloudDisk-Static-Template</a><span> CinnamorollPan template based on MoeCloud. This is the open source community version. You can help me find bugs.</span></li><li><a href=https://github.com/MoeCinnamo/Office-E5>MoeCinnamo/Office-E5</a><span> Office E5 订阅，使用Github Action 自动调用API。By Java</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><span> Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</span></li><li><a href=https://github.com/OmniX-Space/MeowMusicServer>OmniX-Space/MeowMusicServer</a><span> Your aggregated music API&private music player.</span></li></ul>
+<ul><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><span> Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</span></li><li><a href=https://github.com/topjohncian/cloudreve-epay>topjohncian/cloudreve-epay</a><span> Cloudreve Pro 易支付 支持 (点个 Star 不迷路~)</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/6/26, 1:39 PM<br>次のリフレッシュ:10/7/26, 1:39 PM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/7/26, 1:09 PM<br>次のリフレッシュ:10/8/26, 1:09 PM</p>
