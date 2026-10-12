@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/feilongcheng/skPlayer>feilongcheng/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/curl/curl>curl/curl</a><span> A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</span></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><span> 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。</span></li><li><a href=https://github.com/suyu-ai/chatGPT-apiKey>suyu-ai/chatGPT-apiKey</a><span> 🌥️ 速语API | OpenAI官方中转服务 🌥️ https://suyu.io 🔥 官方价格1:1 🔥 1元=1$ Token 🔥 高性价比 稳定快速！🔥 | 全球直连 | 无需代理 | 企业级稳定 | gpt3.5 | gpt4 | gpt4o | gpt4o-mini | 207+模型支持</span></li></ul>
+<ul><li><a href=https://github.com/utmapp/UTM>utmapp/UTM</a><span> Virtual machines for iOS and macOS</span></li><li><a href=https://github.com/OmniX-Space/MeowMusicServer>OmniX-Space/MeowMusicServer</a><span> Your aggregated music API&private music player.</span></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><span> Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</span></li><li><a href=https://github.com/travellings-link/travellings>travellings-link/travellings</a><span> 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/11/26, 12:57 PM<br>次のリフレッシュ:10/12/26, 12:57 PM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/12/26, 1:11 PM<br>次のリフレッシュ:10/13/26, 1:11 PM</p>
