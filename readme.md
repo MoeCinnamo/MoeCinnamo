@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/Moe-CMS/MoeUserServices-PHP>Moe-CMS/MoeUserServices-PHP</a><span> Support OAuth 2.0 users with login interface to log in the pass system, and support UCenter, It is an open-source program that can realize synchronous login of multiple sites and synchronous management of the site background.</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/shuding/liquid-glass>shuding/liquid-glass</a><span> Copy-paste Liquid Glass shader with SVG</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows.</span></li></ul>
+<ul><li><a href=https://github.com/topjohncian/cloudreve-epay>topjohncian/cloudreve-epay</a><span> Cloudreve Pro 易支付 支持 (点个 Star 不迷路~)</span></li><li><a href=https://github.com/curl/curl>curl/curl</a><span> A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/OmniX-Space/MeowBox-Core>OmniX-Space/MeowBox-Core</a><span> My Music Space.</span></li><li><a href=https://github.com/OmniX-Space/MeowMusicServer>OmniX-Space/MeowMusicServer</a><span> Your aggregated music API&private music player.</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/17/26, 11:41 AM<br>次のリフレッシュ:10/18/26, 11:41 AM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：10/18/26, 11:48 AM<br>次のリフレッシュ:10/19/26, 11:48 AM</p>
