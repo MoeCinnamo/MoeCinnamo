@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/feilongcheng/skPlayer>feilongcheng/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/MoeCinnamo/Password-Creater>MoeCinnamo/Password-Creater</a><span> Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.</span></li><li><a href=https://github.com/MCSManager/MCSManager>MCSManager/MCSManager</a><span> Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers / 快速安装，分布式架构，多用户，现代化的 Minecraft 和 Steam 游戏服务器管理面板</span></li><li><a href=https://github.com/shuding/liquid-glass>shuding/liquid-glass</a><span> Copy-paste Liquid Glass shader with SVG</span></li><li><a href=https://github.com/MoeV2Board/v2board-freenode>MoeV2Board/v2board-freenode</a><span> Provide free node support for V2Board.</span></li></ul>
+<ul><li><a href=https://github.com/MoeCinnamo/Office-E5>MoeCinnamo/Office-E5</a><span> Office E5 订阅，使用Github Action 自动调用API。By Java</span></li><li><a href=https://github.com/MoeV2Board/v2board-freenode>MoeV2Board/v2board-freenode</a><span> Provide free node support for V2Board.</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/imuncle/gitblog>imuncle/gitblog</a><span> 基于git issue的轻量级个人博客模板。</span></li><li><a href=https://github.com/shuding/liquid-glass>shuding/liquid-glass</a><span> Copy-paste Liquid Glass shader with SVG</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：11/9/26, 1:29 PM<br>次のリフレッシュ:11/10/26, 1:29 PM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：11/10/26, 2:40 PM<br>次のリフレッシュ:11/11/26, 2:40 PM</p>
