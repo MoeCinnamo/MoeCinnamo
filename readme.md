@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/imuncle/gitblog>imuncle/gitblog</a><span> 基于git issue的轻量级个人博客模板。</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/SANYIMOE/TemHumWea>SANYIMOE/TemHumWea</a><span> Temperature, humidity and weather.</span></li><li><a href=https://github.com/OmniX-Space/MeowBox-Core>OmniX-Space/MeowBox-Core</a><span> My Music Space.</span></li><li><a href=https://github.com/phpple/caddy2-cn-doc>phpple/caddy2-cn-doc</a><span> Caddy 2的中文文档</span></li></ul>
+<ul><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li><li><a href=https://github.com/OmniX-Space/MeowBox-Core>OmniX-Space/MeowBox-Core</a><span> My Music Space.</span></li><li><a href=https://github.com/riskers/blog>riskers/blog</a><span> :pencil2: Blog</span></li><li><a href=https://github.com/mx-space/core>mx-space/core</a><span> AI-powered CMS core for personal blogs and creator websites, with AI summaries, translation, moderation, and writing workflows.</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：11/12/26, 2:31 PM<br>次のリフレッシュ:11/13/26, 2:31 PM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：11/13/26, 1:51 PM<br>次のリフレッシュ:11/14/26, 1:51 PM</p>
