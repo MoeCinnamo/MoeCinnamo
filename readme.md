@@ -74,7 +74,7 @@ recent_posts_inject
 
 **見たことがあります...**
 
-<ul><li><a href=https://github.com/Anankke/SSPanel-UIM>Anankke/SSPanel-UIM</a><span> Multi-purpose proxy service management system</span></li><li><a href=https://github.com/OmniX-Space/MeowBox-Core>OmniX-Space/MeowBox-Core</a><span> My Music Space.</span></li><li><a href=https://github.com/IgorTimofeev/MineOS>IgorTimofeev/MineOS</a><span> Home of MineOS and it's software for OpenComputers mod</span></li><li><a href=https://github.com/OmniX-Space/MeowMusicServer>OmniX-Space/MeowMusicServer</a><span> Your aggregated music API&private music player.</span></li><li><a href=https://github.com/vuepress-reco/vuepress-theme-reco>vuepress-reco/vuepress-theme-reco</a><span> 🎨 This is the repo for vuepress-theme-reco 2.</span></li></ul>
+<ul><li><a href=https://github.com/shuding/liquid-glass>shuding/liquid-glass</a><span> Copy-paste Liquid Glass shader with SVG</span></li><li><a href=https://github.com/imuncle/gitblog>imuncle/gitblog</a><span> 基于git issue的轻量级个人博客模板。</span></li><li><a href=https://github.com/feilongcheng/skPlayer>feilongcheng/skPlayer</a><span> :musical_note: A simple & beautiful HTML5 music player</span></li><li><a href=https://github.com/MoeV2Board/v2board-freenode>MoeV2Board/v2board-freenode</a><span> Provide free node support for V2Board.</span></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><span> 🍰 Kami is mx-space's web frontend theme. Colorful, flat, cute and comfortable.</span></li></ul>
 
 **あなたは私を見つけることができますか**
 
@@ -84,4 +84,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong>大耳犬は一番かわいいです。ニャンコが萌えます。</strong></p>
-<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：11/18/26, 2:40 PM<br>次のリフレッシュ:11/19/26, 2:40 PM</p>
+<p align=center>このファイル <i>README</i> <b>24 時間間隔</b>自動リフレッシュ生成！<br>更新先：11/20/26, 2:29 PM<br>次のリフレッシュ:11/21/26, 2:29 PM</p>
